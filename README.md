@@ -31,7 +31,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-                   
+  <img align="center" alt="photoshop" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+                            
 
 </div>
           
