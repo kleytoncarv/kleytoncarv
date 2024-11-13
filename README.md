@@ -1,4 +1,4 @@
-<h4>Olá, seja bem vindo ao meu perfil, me chamo Kleyton 😊</h4>
+<h4>Olá! Seja bem-vindo ao meu perfil. Sou Kleyton e é um prazer ter você aqui 😊</h4>
 
 ##
 
