@@ -26,9 +26,6 @@
   <img align="center" alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   
-          
-                     
-           
 </div>
 
 ##
@@ -43,6 +40,8 @@
 </div>
 
 ##
+
+![https://www.linkedin.com/in/kleyton-carvalho-0033a0278/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
