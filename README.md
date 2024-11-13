@@ -52,10 +52,9 @@
 
 ##
 
-<div>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF1eGlmaTFrN3NpbDgzdGVlcmVyaGhveWFjeHlkNjl5MGt1OTZyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TgDD0UXj7t023a6c9U/giphy.gif">
-  
-</div>
+![Witcher](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ2dWl2N3Q5M3Mzd255MGhzN2I5bHJ3MXF2a2ZkeTMwbGd3Mmh4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TgDD0UXj7t023a6c9U/giphy-downsized.gif)
+
+
 
 
 
