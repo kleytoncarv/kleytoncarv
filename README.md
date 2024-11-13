@@ -31,7 +31,7 @@
 
 ##
 
-<h4>Design Tools</h4>
+<h4>Design Tools <img align="center" height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> </h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
