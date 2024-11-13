@@ -1,6 +1,7 @@
 <h4>Olá! Seja bem-vindo ao meu perfil. Sou Kleyton e é um prazer ter você aqui 😊</h4>
 
-##
+
+<img align="center" height="25" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 <a href="https://github.com/kleytoncarv/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kleytoncarv&show_icons=true&theme=radical" />
@@ -11,7 +12,7 @@
 
 
 
-<h4>Development Skills</h4>
+<h4>Development Skills <img align="center" height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> </h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Py" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
